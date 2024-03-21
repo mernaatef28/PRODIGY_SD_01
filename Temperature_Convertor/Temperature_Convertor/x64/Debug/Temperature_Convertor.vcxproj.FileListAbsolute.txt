@@ -1,3 +1,0 @@
-C:\Users\dell\source\repos\Temperature_Convertor\Temperature_Convertor\x64\Debug\Temperature_Convertor.vcxproj.AssemblyReference.cache
-C:\Users\dell\source\repos\Temperature_Convertor\Temperature_Convertor\x64\Debug\TemperatureConvertor.TempConv.resources
-C:\Users\dell\source\repos\Temperature_Convertor\Temperature_Convertor\x64\Debug\Temperature_Convertor.vcxproj.GenerateResource.cache

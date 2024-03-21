@@ -1,4 +1,0 @@
-﻿  TempConv.cpp
-C:\Users\dell\source\repos\Temperature_Convertor\Temperature_Convertor\TempConv.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
-  TempConv.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Temperature_Convertor.vcxproj -> C:\Users\dell\source\repos\Temperature_Convertor\x64\Debug\Temperature_Convertor.exe
